@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../buildyourownx"
+		},
+		{
+			"path": "../CPPexercises"
+		},
+		{
+			"path": "../CPPprojects"
+		},
+		{
+			"path": "../CS50"
+		},
+		{
+			"path": "../random"
+		}
+	],
+	"settings": {}
+}

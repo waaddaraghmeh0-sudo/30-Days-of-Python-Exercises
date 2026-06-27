@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CS50"
+		},
+		{
+			"path": "../cpp-exercises"
+		}
+	],
+	"settings": {}
+}
